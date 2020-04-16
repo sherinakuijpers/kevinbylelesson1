@@ -1,4 +1,5 @@
-<?php
+<?php //calculator++
+
 $num1 = 0;      // variabele $num1 is 0 als niks is ingevuld
 $num2 = 0;      // variabele $num2 is 0 als niks is ingevuld
 $totaal = 0;    // $totaal is 0 als niks is ingevuld
